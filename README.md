@@ -30,7 +30,7 @@ Hi, nice to meet you. Let Me introduce my profile in a few lines.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://cdn-ilacobd.nitrocdn.com/zisCJRMfARYXVUPxEnYKupzKXPmPuqgS/assets/images/optimized/rev-3b0a461/www.learningrevolution.net/wp-content/uploads/Hostinger-logo-round.png" width="48" height="48" alt="AWS" />
+        <img src="[https://cdn-ilacobd.nitrocdn.com/zisCJRMfARYXVUPxEnYKupzKXPmPuqgS/assets/images/optimized/rev-3b0a461/www.learningrevolution.net/wp-content/uploads/Hostinger-logo-round.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaviynt.com%2Fexchange%2Fapps%2Faws&psig=AOvVaw3PbGj8s8Y7SOlc4oJm_2Xz&ust=1731328116456000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDmyf3h0YkDFQAAAAAdAAAAABAV)" width="48" height="48" alt="AWS" />
       </a>
       <br>Hostinger 
     </td>	  
