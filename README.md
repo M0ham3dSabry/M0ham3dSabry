@@ -30,7 +30,7 @@ Hi, nice to meet you. Let Me introduce my profile in a few lines.
   <tr border: none;>
     <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://saviynt.com/hubfs/aws.png" width="48" height="48" alt="AWS" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7m-Rn2XQzgWc3CnAhuTzNB2QCeUA2PN1qGg&s" width="48" height="48" alt="Hostinger" />
       </a>
       <br>Hostinger 
     </td>	  
