@@ -54,7 +54,7 @@ Hi, nice to meet you. Let Me introduce my profile in a few lines.
     </td>
         <td align="center" width="110">
       <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://e7.pngegg.com/pngimages/266/559/png-clipart-cat-stencil-social-media-github-computer-icons-logo-github-mammal-cat-like-mammal.png" width="48" height="48" alt="OpenStack" />
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
       </a>
       <br>Github
     </td>
